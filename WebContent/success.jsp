@@ -4,15 +4,9 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Login MVC</title>
+<title>Login Success!</title>
 </head>
 <body>
-	<h3>Welcome to Login!</h3>
-	
-	<form action="Login"  method="post">
-		<br/>Username: <input type="text" name="username"><br/>
-		<br/>Password: <input type="password" name="password"><br/>
-		<br/><input type="submit" value="Login"><br/>
-	</form>
+	<h3>Welcome, You have successfully logged-in!</h3>
 </body>
 </html>
